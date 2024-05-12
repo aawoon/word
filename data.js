@@ -1,5 +1,11 @@
 let word_string = 
-`1. 기본동사 - Take
+`Lesson3 : My Sepecial Travel Journal
+안녕! 나는 Lucy Hunter이고, 런던에 살고 있어.	Hi, I am Lucy Hunter, and I live in London.
+지난주, 우리 가족은 3일 동안 휴가를 떠났어	Last week, my family wet on a vacation for three days.
+여행중에 나는 내 일기에 간단한 그림을 그렸어	During our trip, I made simple drawings in my journal.
+그것은 모든 픅별한 순간을 포착하는 데 아주 좋은 방법이었어.	That was a great way to capture all the specail moments.
+
+1. 기본동사 - Take
 제가 이 팜플릿 가져가도 될까요?	Can I take this pamphlet?
 나는 평화로를 타요.	I take the Peace Road.
 난 그 영어 수업 들어요.	I take the English class.
